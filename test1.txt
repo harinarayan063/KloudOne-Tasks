@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 28DA-C5F3
+
+ Directory of C:\Users\Hari Narayan\Desktop\my project
+
+05/07/2020  02:46 PM    <DIR>          .
+05/07/2020  02:46 PM    <DIR>          ..
+05/07/2020  02:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  105,516,134,400 bytes free
